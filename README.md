@@ -1,9 +1,8 @@
-## Hi there 👋
-My name is **Raymond** and I'm a 4th year Computer Science student at Simon Fraser University.
-I'm currently improving my skills in Software engineering, Full Stack Development, and analytics. I'm passionate about learning new skills and techniques that can help me grow as a developer.
+## Hi there 👋 I'm Raymond Kong.
+I'm a Software Developer based out of Vancouver BC with experience in software development, infrastructure, and data engineering.
+I love learning new skills and pride myself in delivering high quality software! 
 # Links
-LinkedIn: https://www.linkedin.com/in/raymond-kong-779a7b254/    
-
+LinkedIn: https://www.linkedin.com/in/raymondkong7/    
 Website: https://rkong04.github.io/  
 
 
